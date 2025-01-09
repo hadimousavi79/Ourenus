@@ -46,7 +46,7 @@ const LogoBox = () => {
         >
           {t("userPanelTitle").replace(
             "{brandName}",
-            import.meta.env.VITE_BRAND_NAME || "Ourenus"
+            import.meta.env.VITE_BRAND_NAME || "Hanowi"
           )}
         </Grid>
         <Grid
@@ -57,7 +57,7 @@ const LogoBox = () => {
         >
           {t("userPanelWelcome").replace(
             "{brandName}",
-            import.meta.env.VITE_BRAND_NAME || "Ourenus"
+            import.meta.env.VITE_BRAND_NAME || "Hanowi"
           )}
         </Grid>
       </Grid>
