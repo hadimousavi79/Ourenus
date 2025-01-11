@@ -120,7 +120,7 @@ function App() {
         <title>{title}</title>
         <meta
           name="description"
-          content="Powered by https://github.com/MatinDehghanian"
+          content="Powered by Hanowi"
         />
       </Helmet>
       <Grid container justifyContent={"center"}>
